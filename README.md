@@ -4,6 +4,6 @@ Ejemplo de repositorio para clase JavaScript
 
 ---
 
-## Ejercicio 1
+## Ejercicio  ( Titulo en H2 )
 
 Crear un Fork de este repositorio
